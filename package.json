@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index 'mongodb+srv://ls188543:luiza2002@cluster0.zap8rbx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
